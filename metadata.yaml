@@ -1,0 +1,42 @@
+_repo: The-Birds_3013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aristophanes
+    aliases:
+    - Ἀριστοφάνης
+    - Αριστοφάνης
+    birthdate: -450
+    deathdate: -388
+    gutenberg_agent_id: '965'
+    url: http://www.gutenberg.org/2009/agents/965
+    wikipedia: http://en.wikipedia.org/wiki/Aristophanes
+description: The Birds is a comic play by the Greek playwright Aristophanes. It garnered
+  awards in 141 BC when it was first performed, and continues to be critically received
+  today. A middle-aged Athenian convinces the world's birds to build a new city between
+  the heavens and the earth. This position fortuitously allows them to intercept all
+  communication of gods and men.
+gutenberg_bookshelf:
+- Classical Antiquity
+- Banned Books from Anne Haight's list
+- One Act Plays
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Aristophanes -- Translations into English'
+- !lcsh 'Birds -- Drama'
+- !lcsh 'Gods, Greek -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Imaginary societies -- Drama'
+- !lcsh 'Athens (Greece) -- Social life and customs -- Drama'
+- !lcsh 'Greek drama (Comedy) -- Translations into English'
+- GITenberg
+title: The Birds
+url: http://www.gutenberg.org/ebooks/3013
